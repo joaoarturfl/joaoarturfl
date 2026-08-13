@@ -112,9 +112,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <sub>O gráfico acima será gerado automaticamente pelo GitHub Actions depois que o workflow for executado.</sub>
-</p>
 
 ---
 
