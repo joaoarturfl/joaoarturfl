@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,c&theme=dark" alt="Java, JavaScript, HTML, CSS e C" />
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,c,react,nextjs,tailwind&theme=dark" alt="Java, JavaScript, HTML, CSS, C, React, Next.js e Tailwind CSS" />
   </a>
 </p>
 
